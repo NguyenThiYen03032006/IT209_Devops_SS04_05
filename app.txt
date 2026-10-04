@@ -10,3 +10,9 @@ Features:
 5. View booking history
 
 System Status: RUNNING
+
+
+Payment:
+- Cash
+- Bank transfer
+- VNPay
