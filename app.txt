@@ -16,7 +16,3 @@ Payment:
 - Cash
 - Bank transfer
 - VNPay
-
-
-BUG:
-Payment is always successful without verification.
