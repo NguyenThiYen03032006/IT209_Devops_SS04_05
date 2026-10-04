@@ -1,0 +1,12 @@
+AIRLINE BOOKING APPLICATION
+
+Application Status: ACTIVE
+
+Features:
+1. Search flights
+2. View flight details
+3. Book flight
+4. Cancel booking
+5. View booking history
+
+System Status: RUNNING
